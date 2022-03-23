@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool: 
-  name: windows agent self hosted
+  name: Default
   vmImage: windows-latest
 
 steps:
